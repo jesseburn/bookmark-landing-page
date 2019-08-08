@@ -176,7 +176,7 @@ nav {
 .opera p {
   margin-bottom: 10%;
   position: relative;
-  background: url("file:///C:/Users/jnewm/Desktop/bookmark-landing-page-master/images/bg-dots.svg") bottom no-repeat;
+  background: url("/bookmark-landing-page/images/bg-dots.svg") bottom no-repeat;
 }
 
 .extension {
@@ -1051,4 +1051,3 @@ footer a {
     padding: 0 40%;
   }
 }
-/*# sourceMappingURL=styles.css.map */
